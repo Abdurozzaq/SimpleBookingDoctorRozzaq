@@ -1,5 +1,5 @@
 SERVER VERSION:
-- MYSQL: 8.0.25-15
+- MYSQL: 8.2.13
 - PHP: 8.2.13
 
 
